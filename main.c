@@ -43,7 +43,7 @@
 #define LEDBUTTON_LED_PIN_NO            BSP_LED_0
 #define LEDBUTTON_BUTTON_PIN_NO         BSP_BUTTON_1
 
-#define DEVICE_NAME                     "LedButtonDemo"                             /**< Name of device. Will be included in the advertising data. */
+#define DEVICE_NAME                     "FES Mark4B"                             /**< Name of device. Will be included in the advertising data. */
 
 #define APP_ADV_INTERVAL                64                                          /**< The advertising interval (in units of 0.625 ms. This value corresponds to 40 ms). */
 #define APP_ADV_TIMEOUT_IN_SECONDS      180                                         /**< The advertising timeout (in units of seconds). */
